@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Clayton Lino from Brazil <br><br>- 🔭 I’m working as Sysadmin <br>- 📚 I'm currently learning Cloud and Devops<br>- ⚡ In my free time I'm obssesed with fantasy books!</p>
+<p align="left">I'm Clayton Lino from Brazil <br><br>- 🔭 I’m working as Sysadmin <br>- 📚 I'm currently learning, AI Cloud and Devops<br>- ⚡ In my free time I'm obssesed with fantasy books!</p>
 
 ###
 
